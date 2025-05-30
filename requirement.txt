@@ -1,1 +1,13 @@
 openai
+numpy
+opencv-python
+PyYAML
+rospkg
+catkin_pkg
+python-dotenv
+speech_recognition
+pyaudio
+transformers
+torch
+sounddevice
+soundfile
